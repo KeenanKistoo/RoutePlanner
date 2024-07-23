@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RoutePlanner/static/css/main.7cc28535.css",
+    "main.js": "/RoutePlanner/static/js/main.1c790bd3.js",
+    "static/js/453.1719e333.chunk.js": "/RoutePlanner/static/js/453.1719e333.chunk.js",
+    "index.html": "/RoutePlanner/index.html",
+    "main.7cc28535.css.map": "/RoutePlanner/static/css/main.7cc28535.css.map",
+    "main.1c790bd3.js.map": "/RoutePlanner/static/js/main.1c790bd3.js.map",
+    "453.1719e333.chunk.js.map": "/RoutePlanner/static/js/453.1719e333.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cc28535.css",
+    "static/js/main.1c790bd3.js"
+  ]
+}
