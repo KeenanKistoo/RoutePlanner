@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RoutePlanner/home/static/css/main.7cc28535.css",
-    "main.js": "/RoutePlanner/home/static/js/main.27ae0d56.js",
-    "static/js/453.1719e333.chunk.js": "/RoutePlanner/home/static/js/453.1719e333.chunk.js",
-    "index.html": "/RoutePlanner/home/index.html",
-    "main.7cc28535.css.map": "/RoutePlanner/home/static/css/main.7cc28535.css.map",
-    "main.27ae0d56.js.map": "/RoutePlanner/home/static/js/main.27ae0d56.js.map",
-    "453.1719e333.chunk.js.map": "/RoutePlanner/home/static/js/453.1719e333.chunk.js.map"
+    "main.css": "/RoutePlanner/static/css/main.7cc28535.css",
+    "main.js": "/RoutePlanner/static/js/main.91277014.js",
+    "static/js/453.1719e333.chunk.js": "/RoutePlanner/static/js/453.1719e333.chunk.js",
+    "index.html": "/RoutePlanner/index.html",
+    "main.7cc28535.css.map": "/RoutePlanner/static/css/main.7cc28535.css.map",
+    "main.91277014.js.map": "/RoutePlanner/static/js/main.91277014.js.map",
+    "453.1719e333.chunk.js.map": "/RoutePlanner/static/js/453.1719e333.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cc28535.css",
-    "static/js/main.27ae0d56.js"
+    "static/js/main.91277014.js"
   ]
 }
