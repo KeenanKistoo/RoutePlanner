@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, HashRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './Components/Navigation/Navbar';
 import RouteAvail from './Pages/Avail/RouteAvail';
 import RouteInfo from './Pages/Info/RouteInfo';
@@ -10,15 +10,16 @@ function App() {
   return (
     <div className="App">
       <TicketPurchaseContextProvider>
-        <BrowserRouter>
+        <HashRouter>
           <Navbar />
           <Routes>
             <Route path='/' element={<RouteAvail />} />
             <Route path='/information/:id' element={<RouteInfo />} /> {/* Dynamic route with :id parameter */}
             <Route path='/cart' element={<Purchase />} />
             <Route path='/checkout' element={<Checkout/>}/>
+            <Route path='/home' element={<RouteAvail/>}/>
           </Routes>
-        </BrowserRouter>
+        </HashRouter>
       </TicketPurchaseContextProvider>
     </div>
   );
