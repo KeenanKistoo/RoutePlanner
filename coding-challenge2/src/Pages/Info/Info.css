@@ -1,0 +1,79 @@
+article.info-sect{
+    margin-left: 5rem;
+    font-size: 1.2rem;
+}
+.route-head{
+    font-size: 2.8rem;
+}
+
+.desc{
+    margin-top: -2rem;
+    font-size: 1.8rem;
+}
+
+.duration{
+    margin-top: 3rem;
+
+}
+
+.stops{
+    padding-top: 1rem;
+}
+
+.price-info{
+    padding-top: 1rem;
+    font-size: 2.5rem;
+    margin-left: 30rem;
+}
+
+.pur-btn{
+    background-color: rgb(109, 197, 109);
+    margin-left: 36rem;
+    height: 2rem;
+    width: 8rem;
+    padding: 0.4rem;
+    border: 1px solid black;
+    text-decoration: none;
+    color: black;
+}
+
+.pur-btn:hover{
+    cursor: pointer;
+}
+
+.back-btn{
+    border: 1px solid black;
+    background-color: rgb(235, 169, 169);
+    color: black;
+    text-decoration: none;
+    padding: 0.4rem;
+    height: 2rem;
+    width: 8rem;
+    margin-left: 5rem;
+    margin-top: 40rem;
+}
+
+.back-btn:hover{
+    cursor: pointer;
+}
+
+.input-sect{
+    margin-left: 46rem;
+    margin-top: -2rem;
+    margin-bottom: 2rem;
+    display: grid;
+    width: 12rem;
+    grid-template-rows: 1;
+    grid-template-columns: repeat(3, 33%);
+    height: 2rem;
+    justify-items: right;
+}
+
+.input{
+    width: 50%;
+}
+
+.change-btn{
+    width: 50% ;
+    
+}

@@ -1,0 +1,78 @@
+.page-head{
+    margin-top: -4rem;
+    margin-left: 5rem;
+}
+.ticket{
+    margin-top: 5rem;
+    margin-left: 5rem;
+    margin-bottom: -3rem;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 12rem;
+    width: 25rem;
+}
+
+.ticket-head{
+margin-left: 2rem;
+}
+
+.route-id{
+    font-size: 0.7rem;
+    margin-left: 2rem;
+    margin-top: -1.3rem;
+    font-style: italic;
+    color: rgb(85, 85, 85);
+}
+
+.price-cart{
+    margin-left: 2rem;
+    font-weight: bold;
+}
+.value-sect{
+    margin-left: 2rem;
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+    width: 8rem;
+    justify-content:end;
+ 
+}
+
+
+.alter-btns{
+    width: 1.5rem;
+}
+.input{
+    width: 2rem;
+}
+
+#plus{
+    margin-left: 30%;
+
+}
+
+.subtotal{
+    margin-top: 5rem;
+    margin-right: 50rem;
+    float: right;
+    font-size: 2rem;
+
+}
+
+.no-items{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.checkout{
+    margin-left: 48rem;
+    font-size: 1.5rem;
+    border: 1px solid black;
+    padding: 0.5rem;
+    text-decoration: none;
+    color: black;
+    background-color: rgb(52, 209, 52);
+}
+
+.checkout:hover{
+    cursor: pointer;
+}
